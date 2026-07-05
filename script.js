@@ -25,10 +25,6 @@ const links = [
 const browser = "Internet Explorer 5.5";
 const resolution = "800x600";
 
-// ----------------------------------
-// Jos löysit tänne asti,
-// olet oikeilla jäljillä.
-// ----------------------------------
 
 const code = {};
 code.ABBGH10 = true;
