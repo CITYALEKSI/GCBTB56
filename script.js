@@ -5,7 +5,7 @@
 =====================================
 */
 
-// Arkiston tietoja
+
 const archive = {
     version: "1.4",
     author: "Webmaster",
@@ -13,7 +13,6 @@ const archive = {
     visitors: 1337
 };
 
-// Muutama turha muuttuja
 const links = [
     "index.html",
     "kuvat.html",
@@ -33,9 +32,9 @@ code.ABBGH10 = true;
 console.log("Arkisto ladattu...");
 console.log("Version:", archive.version);
 
-// Vilkkuva otsikko selaimen välilehdessä
+
 const titles = [
-    "KÄTKÖN NIMI",
+    
     "*** TERVETULOA ***"
 ];
 
