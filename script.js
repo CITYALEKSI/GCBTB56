@@ -21,7 +21,7 @@ const browser = "Internet Explorer 5.5";
 const resolution = "800x600";
 
 const code = {};
-code.abbgh10 = true;
+mcode.abbgh10 = true;
 console.log("Arkisto ladattu...");
 console.log("Version:", archive.version);
 
